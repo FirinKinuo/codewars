@@ -1,0 +1,8 @@
+<div class="description is-full-height has-auto-scrolling p-4"><div class="markdown prose max-w-none" id="description"><p>Complete the function/method so that it takes a <code>PascalCase</code> string and returns the string in <code>snake_case</code> notation. Lowercase characters can be numbers. If the method gets a number as input, it should return a string.</p>
+<h2 id="examples">Examples</h2>
+<pre><code>"TestController"  --&gt;  "test_controller"
+"MoviesAndBooks"  --&gt;  "movies_and_books"
+"App7Test"        --&gt;  "app7_test"
+1                 --&gt;  "1"
+</code></pre>
+</div><hr><div class="mt-15px"><span><i class="icon-moon-tag "></i></span><div class="keyword-tag">Algorithms</div><div class="keyword-tag">Strings</div><div class="keyword-tag">Formatting</div></div><hr><br><div class="text-center"><a class="hover:text-current" data-tippy-content="Supercharge your technical hiring with developer assessments." data-tippy-placement="top" href="https://www.qualified.io?utm_source=codewars&amp;utm_medium=web" rel="noopener" target="_blank"><div class="flex items-baseline justify-center"><span class="pl-1 text-xs inline-block">powered by</span><img class="h-4 inline-block dark:hidden pl-1" src="/assets/logos/qualified-black-b052752a4beaf94810c9d982f495680e2a9eb207824764ef98240ccef15cfbb1.svg"><img class="h-4 hidden dark:inline-block pl-1" src="/assets/logos/qualified-white-7cba1bde874154ee4f39d50aebd5b7e435f5b21af9884b236a60d9015039e7f0.svg"></div></a></div></div>
